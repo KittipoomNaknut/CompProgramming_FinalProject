@@ -10,7 +10,7 @@
 🚀 เปิด Notebook บน Google Colab
 คลิกปุ่มด้านล่างเพื่อเปิดและรันโปรเจกต์ได้ทันทีใน Colab 👇
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WwJ43mu2So8sCOc52d63xeTURQZF0ExJ?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cNlPGNgLu5Q2Jut1E4LfxQv0txggmXQw?usp=sharing)
 
 ---
 
